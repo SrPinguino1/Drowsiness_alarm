@@ -58,4 +58,5 @@ python Drowsiness_Detection.py
 ## References 🔱
  
  -   Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+ -   Akshay Bahadur, [Akshay Bahadur](https://github.com/akshaybahadur21/Drowsiness_Detection)
 
